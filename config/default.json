@@ -1,6 +1,6 @@
 {
-    "appSecret": "f395abe4cf138583278033f522277316",
-    "pageAccessToken": "EAAFrtYOZC49MBAMGBpEViOEcZCcuT0VbyQVQSvwZCNC5zhLgMIDlQOmKGEHJEwlBTRwYreuZALkpVymg9vtmyz8S2eagsTko9fGEYKFUrvI385ZAJvi34LPfkVeySSrnB6LpVdPWNASivwhhROAPwUAofS8IQjgke2FrqBRfwjAZDZD",
-    "validationToken": "blahblah",
-    "serverURL": "calm-peak-52586.herokuapp.com"
+    "appSecret": "",
+    "pageAccessToken": "",
+    "validationToken": "",
+    "serverURL": ""
 }
